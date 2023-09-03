@@ -36,7 +36,7 @@
 &emsp; ![](https://github.com/rishabh-kalia-rk/covid_data_analysis_ETL_pipeline/blob/main/image/data_model.jpg)
 
 ### &emsp; **Work Flow Diagram**
-&emsp; ![](image\workflow.jpg)
+&emsp; ![](https://github.com/rishabh-kalia-rk/covid_data_analysis_ETL_pipeline/blob/main/image/workflow.jpg)
 
 ### &emsp; **Dimesnional Model**
 &emsp; ![](image\dimension_model.jpg)
