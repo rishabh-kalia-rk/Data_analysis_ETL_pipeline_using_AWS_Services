@@ -39,7 +39,7 @@
 &emsp; ![](https://github.com/rishabh-kalia-rk/covid_data_analysis_ETL_pipeline/blob/main/image/workflow.jpg)
 
 ### &emsp; **Dimesnional Model**
-&emsp; ![](image\dimension_model.jpg)
+&emsp; ![](https://github.com/rishabh-kalia-rk/covid_data_analysis_ETL_pipeline/blob/main/image/dimension_model.jpg)
 <br>
 
 ## **Getting Started**
