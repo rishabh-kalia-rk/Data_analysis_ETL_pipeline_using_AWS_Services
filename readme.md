@@ -33,7 +33,7 @@
 
 ## **Table Scehma**
 ### &emsp; **Data Model**
-&emsp; ![](image\data_model.jpg)
+&emsp; ![](https://github.com/rishabh-kalia-rk/covid_data_analysis_ETL_pipeline/blob/main/image/data_model.jpg)
 
 ### &emsp; **Work Flow Diagram**
 &emsp; ![](image\workflow.jpg)
