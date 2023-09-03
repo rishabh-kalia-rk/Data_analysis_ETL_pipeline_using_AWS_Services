@@ -367,4 +367,4 @@ IGNOREHEADER 1
 """,(f'{S3_OUTPUT_TABLE_DATA}/factCovid.csv',REDSHIFT_S3_IAM,)
 )
 
-# NOw the data is loaded in the tables present in the redshift database we can apply the quires on them and can process the data further for analysis.
+# Now the data is loaded in the tables present in the redshift database we can apply the quires on them and can process the data further for analysis.
